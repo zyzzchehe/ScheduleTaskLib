@@ -1,2 +1,2 @@
 # AndroidScheduleTask
-Schedule timertasks in an 
+Schedule timertasks in an easy way.

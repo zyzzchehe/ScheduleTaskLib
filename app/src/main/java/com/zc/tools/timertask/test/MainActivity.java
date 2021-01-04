@@ -1,6 +1,6 @@
-package com.torchmu.demo;
+package com.zc.tools.timertask.test;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -8,6 +8,7 @@ import android.widget.TextView;
 
 import com.torchmu.schedule.ScheduleProxy;
 import com.torchmu.schedule.ScheduleTask;
+import com.torchmu.test.R;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
